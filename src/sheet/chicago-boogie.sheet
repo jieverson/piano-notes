@@ -1,0 +1,53 @@
+options space=10 player=true tempo=120
+tabstave notation=true tablature=false clef=bass time=4/4
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2 |
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2 |
+text .font=Arial-16-
+text :w, C7, C7
+
+options space=50
+tabstave notation=true tablature=false clef=bass time=4/4
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2 |
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2 |
+text .font=Arial-16-
+text :w, C7, C7
+
+options space=50
+tabstave notation=true tablature=false clef=bass time=4/4
+notes :8d (F/2.C/3) :16 (F/2.C/3) :8d A@/2 :16 An/2
+notes :8d (F/2.C/3) :16 (F/2.C/3) :8d A@/2 :16 An/2 |
+notes :8d (F/2.C/3) :16 (F/2.C/3) :8d A@/2 :16 An/2
+notes :8d (F/2.C/3) :16 (F/2.C/3) :8d A@/2 :16 An/2 |
+text .font=Arial-16-
+text :w, F7, F7
+
+options space=50
+tabstave notation=true tablature=false clef=bass time=4/4
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2 |
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2 |
+text .font=Arial-16-
+text :w, C7, C7
+
+options space=50
+tabstave notation=true tablature=false clef=bass time=4/4
+notes :8d (G/2.D/3) :16 (G/2.D/3) :8d B@/2 :16 Bn/2
+notes :8d (G/2.D/3) :16 (G/2.D/3) :8d B@/2 :16 Bn/2 |
+notes :8d (F/2.C/3) :16 (F/2.C/3) :8d A@/2 :16 An/2
+notes :8d (F/2.C/3) :16 (F/2.C/3) :8d A@/2 :16 An/2 |
+text .font=Arial-16-
+text :w, G7, F7
+
+options space=50
+tabstave notation=true tablature=false clef=bass time=4/4
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2 |
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2
+notes :8d (C/2.G/2) :16 (C/2.G/2) :8d E@/2 :16 En/2 |
+text .font=Arial-16-
+text :w, C7, C7

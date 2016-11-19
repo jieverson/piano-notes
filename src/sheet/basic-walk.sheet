@@ -1,0 +1,26 @@
+options space=10 player=true tempo=140
+tabstave notation=true tablature=false clef=bass time=4/4
+notes :q C/2 E/2 G/2 :8d A/2 :16 G/2 |
+notes :q C/2 E/2 G/2 :8d A/2 :16 G/2 |
+notes :q C/2 E/2 G/2 :8d A/2 :16 G/2 |
+notes :q C/2 E/2 G/2 :8d A/2 :16 G/2 |
+text .font=Arial-16-
+text :w, C7, C7, C7, C7
+
+options space=50
+tabstave notation=true tablature=false clef=bass time=4/4
+notes :q F/2 A/2 C/3 :8d D/3 :16 C/3 |
+notes :q F/2 A/2 C/3 :8d D/3 :16 C/3 |
+notes :q C/2 E/2 G/2 :8d A/2 :16 G/2 |
+notes :q C/2 E/2 G/2 :8d A/2 :16 G/2 |
+text .font=Arial-16-
+text :w, F7, F7, C7, C7
+
+options space=50
+tabstave notation=true tablature=false clef=bass time=4/4
+notes :q G/2 B/2 D/3 :8d E/3 :16 D/3 |
+notes :q F/2 A/2 C/3 :8d D/3 :16 C/3 |
+notes :q C/2 E/2 G/2 :8d A/2 :16 G/2 |
+notes :q C/2 E/2 G/2 :8d A/2 :16 G/2 |
+text .font=Arial-16-
+text :w, G7, F7, C7, C7

@@ -1,0 +1,23 @@
+{
+  "name": "piano-notes",
+  "version": "1.0.0",
+  "description": ":musical_score: My Piano Play Book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jieverson/piano-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jieverson/piano-notes/issues"
+  },
+  "homepage": "https://github.com/jieverson/piano-notes#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-file-include": "^1.0.0"
+  }
+}
